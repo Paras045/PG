@@ -13,9 +13,9 @@ const projects = [
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500&q=80"
   },
   {
-    title: "Mobile App",
-    description: "A cross-platform mobile application built with React Native",
-    image: "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=500&q=80"
+    title: "Weather Web App",
+    description: "A modern weather application with real-time updates and beautiful visualizations",
+    image: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=500&q=80"
   }
 ];
 

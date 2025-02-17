@@ -1,0 +1,29 @@
+"Design a sleek, modern, and minimalistic portfolio website inspired by Apple's aesthetic. The website should feature a clean white background, elegant typography, and smooth animations. The layout should be highly structured with ample whitespace, bold headings, and high-quality images. The navigation should be simple and intuitive, ensuring seamless user experience.
+
+The website should include the following sections:
+
+Hero Section: A full-width high-resolution image with a short, impactful tagline introducing the individual. A centered call-to-action (CTA) button like 'View Portfolio' or 'Contact Me.' Smooth scrolling effect when navigating.
+
+About Section: A professional yet personal introduction with a brief description, a stylish photo of the individual, and subtle animations on hover.
+
+Portfolio/Projects Section: A grid layout showcasing featured projects with high-resolution images, brief descriptions, and smooth hover effects. Clicking a project should open a sleek modal or redirect to a detailed project page.
+
+Skills Section: Display key skills using minimalistic icons and short descriptions, possibly with a subtle animation on scroll.
+
+Testimonials (Optional): A simple, elegant carousel or card layout displaying client or peer testimonials.
+
+Contact Section: A simple, clean contact form with fields for Name, Email, and Message. A bold yet non-intrusive CTA button. Social media icons placed subtly.
+
+Footer: Minimalistic with links to essential pages, copyright information, and social media handles.
+
+Design Details:
+Typography: Modern sans-serif font like SF Pro, Montserrat, or Inter.
+Color Palette: Mostly monochromatic (white, black, gray) with subtle accent colors for highlights.
+Animations: Smooth fade-ins, parallax scrolling, and hover effects on buttons and images.
+Responsiveness: Fully responsive with mobile-first design principles.
+Performance Optimization: Lightweight images, lazy loading, and optimized CSS/JS for fast loading times.
+Tech Stack Suggestions:
+Frontend: Next.js or React with Tailwind CSS.
+Animations: Framer Motion or GSAP for smooth transitions.
+Deployment: Vercel or Netlify for seamless hosting.
+Ensure the website maintains Apple's signature clean, high-end feel with a focus on simplicity and usability."

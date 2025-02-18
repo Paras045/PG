@@ -14,8 +14,12 @@ export default function HeroSection() {
         <h1 className="text-5xl md:text-7xl font-bold mb-6">
           Creative Developer
         </h1>
+        
         <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-2xl mx-auto">
           Crafting digital experiences that merge design and technology
+        </p>
+        <p className="text-gray-600 mb-4 md:mb-5">
+        Email : parasgunjavate522@gmail.com , Mob no : 9356610087
         </p>
         <Button
           size="lg"

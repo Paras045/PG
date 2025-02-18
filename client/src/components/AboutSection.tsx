@@ -16,20 +16,13 @@ export default function AboutSection() {
           <Card>
             <CardContent className="p-6 md:p-8">
               <div className="grid md:grid-cols-2 gap-8 items-center">
-                <div className="aspect-square bg-gray-200 rounded-lg overflow-hidden">
-                  <img
-                    src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&q=80"
-                    alt="Profile"
-                    className="w-full h-full object-cover"
-                  />
-                </div>
                 <div>
-                  <h3 className="text-2xl font-semibold mb-4">Hello, I'm John Doe</h3>
+                  <h3 className="text-2xl font-semibold mb-4">Hello, I'm Paras</h3>
                   <p className="text-gray-600 leading-relaxed mb-6">
-                    I'm a creative developer with a passion for building beautiful and functional digital experiences. With over 5 years of experience in web development, I specialize in creating user-centric solutions that merge aesthetics with functionality.
+                  I'm a creative developer with a passion for building beautiful and functional digital experiences. As a B.Tech student with a keen interest in web and app development, I specialize in crafting user-centric solutions that merge aesthetics with functionality.
                   </p>
                   <p className="text-gray-600 leading-relaxed">
-                    When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing my knowledge through technical writing.
+                  When I'm not coding, you can find me exploring new technologies, working on innovative projects, or sharing my knowledge through insightful discussions.
                   </p>
                 </div>
               </div>

@@ -63,6 +63,7 @@ export default function ContactSection() {
           className="max-w-2xl mx-auto"
         >
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">Get in Touch</h2>
+          
           <Form {...form}>
             <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6">
               <FormField
